@@ -1,0 +1,2 @@
+# singleton
+simple C++ singleton
