@@ -1,2 +1,2 @@
 # singleton
-simple C++ singleton
+Simple C++ singleton template. Not thread-safe
